@@ -1,0 +1,12 @@
+Installation step of Jupyter in Ubuntu 18.04 or later
+
+Install python 3 or python 2 in ubuntu
+sudo apt-get install python3
+
+Install Jupyter in ubuntu 18.04
+	sudo apt-get install python3-notebook (346 MB)
+	sudo apt-get install jupyter jupyter-core (236 kb)
+  sudo apt-get install python-ipykernel (67.7 MB)
+
+Launch Jupyter in terminal
+  sudo jupyter-notebook
