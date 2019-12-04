@@ -10,3 +10,19 @@ Install Jupyter in ubuntu 18.04
 
 Launch Jupyter in terminal
   sudo jupyter-notebook
+  
+  
+Installation step of Jupyter in Mac (https://jupyter.org/install)
+
+For Python 3 with pip
+
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+For Python 2 with pip
+
+python -m pip install --upgrade pip
+python -m pip install jupyter
+
+Launch Jupyter in terminal
+jupyter notebook
