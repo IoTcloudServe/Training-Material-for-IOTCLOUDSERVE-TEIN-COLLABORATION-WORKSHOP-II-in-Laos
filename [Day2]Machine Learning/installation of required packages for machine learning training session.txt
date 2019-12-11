@@ -1,0 +1,64 @@
+1. Python3
+
+For Ubuntu 18.04
+sudo apt-get install python3
+
+For MacOSX
+(ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)") - To install brew in Mac
+brew install python3
+
+----------------------------------------
+2. pip3
+
+For Ubuntu 18.04
+sudo apt-get install python3-pip
+
+For MacOSX
+[brew install python3] also install pip3
+
+----------------------------------------
+3. Jupyter
+
+For Ubuntu 18.04
+
+sudo apt-get install python3-notebook (346 MB)
+sudo apt-get install jupyter jupyter-core (236 kb)
+sudo apt-get install python-ipykernel (67.7 MB)
+
+For MacOSX 
+  
+Installation step of Jupyter in Mac (https://jupyter.org/install)
+
+For Python3
+
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+For Python 2 with pip
+
+python -m pip install --upgrade pip
+python -m pip install jupyter
+
+Launch Jupyter in terminal (MacOSX & Ubuntu)
+jupyter notebook
+
+-------------------------------------------
+4. Skitit-learn
+
+For Ubuntu 18.04 & MacOSX
+
+pip3 install -U scikit-learn
+
+-------------------------------------------
+5. Matplotlib
+
+For Ubuntu 18.04 & MacOSX
+
+pip3 install matplotlib
+
+-------------------------------------------
+6. Seaborn
+
+For Ubuntu 18.04 & MacOSX
+
+pip3 install seaborn
