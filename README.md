@@ -7,5 +7,5 @@ This repository is for the required training materials for IOTCLOUDSERVE@TEIN CO
 
 The activity details be shown as following the agenda below
 
-![image](https://user-images.githubusercontent.com/51705645/70153886-383a8280-16e2-11ea-8145-463d89805c5a.png)
-![image](https://user-images.githubusercontent.com/51705645/70153986-54d6ba80-16e2-11ea-9a49-2e1e2c3096f3.png)
+![image](https://user-images.githubusercontent.com/51705645/70586425-9cd17200-1bf9-11ea-8c14-08ba8c4d1fcc.png)
+![image](https://user-images.githubusercontent.com/51705645/70586463-b96daa00-1bf9-11ea-8e98-ef7d88146c25.png)
