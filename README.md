@@ -6,7 +6,7 @@ This repository is for the required training materials for IOTCLOUDSERVE@TEIN CO
 2. Machine Learning for Smart Agriculture@NUOL
 
 ### **Please take an evaluation form here**
-Evaluation form [**Day1**]: [https://docs.google.com/forms/d/e/1FAIpQLSdpZery5SDNPkZ0sTMpOxPVo-i-cV1XS4opXwOsXKU-6jSdnQ/viewform?usp=pp_url](url) 
+Evaluation form [**Day1**]: https://docs.google.com/forms/d/e/1FAIpQLSdpZery5SDNPkZ0sTMpOxPVo-i-cV1XS4opXwOsXKU-6jSdnQ/viewform?usp=pp_url
 
 Evaluation form [**Day2**]: [https://docs.google.com/forms/d/e/1FAIpQLSeeEaiL9MSEgMKiNbpL5soZ6oTLBMQzULPcRwE49Z-GtmFEHw/viewform?usp=pp_url](url) 
 
